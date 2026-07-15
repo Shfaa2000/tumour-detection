@@ -164,7 +164,7 @@ AI-Tumor-Detection/
 ### Image Classification
 
 <p align="center">
-<img src="screenshots/image_prediction.jpg" width="850">
+<img src="screenshots/image-prediction.jpg" width="850">
 </p>
 
 ---
